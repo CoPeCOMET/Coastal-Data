@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{67:function(a){a.exports=JSON.parse('{"allTagsPath":"https://copecomet.github.io/Coastal-Data/blog/tags","slug":"marsh","name":"marsh","count":1,"permalink":"https://copecomet.github.io/Coastal-Data/blog/tags/marsh"}')}}]);
