@@ -13,7 +13,6 @@ author: FIRSTNAME LASTNAME
 author_title: YOUR POSITION AND/OR YOUR INSTITUTION/AGENCY/ETC
 author_url: YOUR WEBSITE/TWITTER/ETC/A WAY A USER WOULD FIND OUT HOW TO CONTACT YOU
 author_image_url: AN IMAGE OF YOU,OR AN AVATAR 
-image: AN IMAGE RELATED TO THE DATASET (A URL)
 tags: [data, general, marsh, dune, beach, built environment, people, ecosystem, morphodynamics, ecomorphodynamics, time, space, infrastructure, lagoon, bay]
 ---
 
@@ -21,7 +20,9 @@ tags: [data, general, marsh, dune, beach, built environment, people, ecosystem, 
 
 <!--truncate-->
 
-{and finish up the post below the truncation.}
+{and finish up the post below the truncation. if you have an image, that is great. you can include it with with the md syntax below. remember to commit the image file in the same place as the blog post.}
+
+![](image.jpg)
 
 **Dataset Name:** INSERT DATASET NAME HERE
 **Dataset DOI/URL:** INSERT DATASET DOI HERE IF IT HAS ONE
