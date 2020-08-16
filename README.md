@@ -12,4 +12,4 @@ We invite you to contribute in a few ways:
 3) giving us feedback (you can do this via github issues in this repository)
 
 Instructions for data blog entries will be added soon.
-[Tempalte for data blog entries](https://github.com/CoPeCOMET/Coastal-Data/blob/master/DataBlogTemplate.md)
+[Template for data blog entries](https://github.com/CoPeCOMET/Coastal-Data/blob/master/DataBlogTemplate.md)
