@@ -2,7 +2,7 @@
 
 We present a minimal example of a collaborative coastal data curation service. 
 
-Here is the site: https://copecomet.github.io/Coastal-Data/blog/
+Here is the site: https://copecomet.github.io/Coastal-Data/
 
 The site is built with [Docusaurus](https://v2.docusaurus.io/), and can be foudn int he `gh-pages` branch of this repository.
 
