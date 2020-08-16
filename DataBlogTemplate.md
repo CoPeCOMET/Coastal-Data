@@ -1,41 +1,43 @@
 # Here is template for the blog post. 
 
 1. start a new markdown file.
-2. save the file with the naem `YYYY-MM-DD-my-blog-post-title.md`
-3. Copy this format below
+2. save the file with the name `YYYY-MM-DD-my-blog-post-title.md`
+3. Copy this format below.
+4. replace all the AllCAPS text and the text in the curly brakets with your own. (please keep the markdown formatting)
+5. choose relevant tags and delete the non-relevant ones
 
 ```
 ---
-title: A COOL TITLE
+title: A TITLE
 author: FIRSTNAME LASTNAME
 author_title: YOUR POSITION AND/OR YOUR INSTITUTION/AGENCY/ETC
-author_url: YOUR WEBSITE/TWITTER/Etc.
-author_image_url: AN IMAGE OF YOU
-image: AN IMAGE RELATED TO THE DATASET
-tags: [data, general, marsh, dune, beach, built environment, infrastructure, lagoon, bay, ]
+author_url: YOUR WEBSITE/TWITTER/ETC/A WAY A USER WOULD FIND OUT HOW TO CONTACT YOU
+author_image_url: AN IMAGE OF YOU,OR AN AVATAR 
+image: AN IMAGE RELATED TO THE DATASET (A URL)
+tags: [data, general, marsh, dune, beach, built environment, people, ecosystem, morphodynamics, ecomorphodynamics, time, space, infrastructure, lagoon, bay]
 ---
 
-We recommend starting with a one line intro to the dataset. Anything before the truncation will appear before expanding the post.
+{We recommend starting with a one line intro to the dataset. Anything before the truncation will appear before expanding the post.}
 
 <!--truncate-->
 
-and finish up the post below the truncation.
+{and finish up the post below the truncation.}
 
 **Dataset Name:** INSERT DATASET NAME HERE
-**Dataset DOI/URL:** INSERT DATASET DOI HERE if it has one
-**Dataset descriptor article:** INSERT DATASET descriptor article DOI HERE if it has one, or say None
-**Dataset API:** INSERT DATASET API HERE if it has one, or say None
-**Code to work with data:** INSERT any code or github repo  HERE, or say None
-**Example uses of dataset:** INSERT any example uses of the data (paper, blog, etc)
+**Dataset DOI/URL:** INSERT DATASET DOI HERE IF IT HAS ONE
+**Dataset descriptor article:** INSERT DATASET DESCRIPTOR ARTICLE DOI IF IT HAS ONE, OR ELSE SAY NONE
+**Dataset API:** INSERT DATASET API HERE IF IT HAS ONE, OR ELSE SAY NONE
+**Code to work with data:** INSERT ANY CODE OR GITHUB REPO HERE IF IT HAS ONE, OR ELSE SAY NONE
+**Example uses of dataset:** INSERT ANY EXAMPLE USES OF THE DATA (A PAPER, A BLOG, ETC) IF IT HAS ONE, OR ELSE SAY NONE
 
-Please write a short description of the dataset/datasource.
+{Please write a short description of the dataset/datasource.}
 
-Also please write a short (maybe 1-2 paragraph) rationale for why this dataset is cool. Remember this site is intended to curate data sources — for other coastal scientist to browse, get ideas, discuss facets of the dataset, possible extensions, etc.
+{Also please write a short (maybe 1-2 paragraph) rationale for why this dataset is cool. Remember this site is intended to curate data sources — for other coastal scientist to browse, get ideas, discuss facets of the dataset, possible extensions, etc.}
 
-Also, feel free to include other info:
+{Also, feel free to include other info:
 - Have you used it before? 
 - have you encountered any issues? 
-- are you currently working with it and want some collaborators?
+- are you currently working with it and want some collaborators?}
 
 
 ```
