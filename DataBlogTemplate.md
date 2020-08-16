@@ -19,10 +19,23 @@ We recommend starting with a one line intro to the dataset. Anything before the 
 
 <!--truncate-->
 
-and finish up the post here.
-Main things to cover are:
+and finish up the post below the truncation.
 
-XXXXX
+**Dataset Name:** INSERT DATASET NAME HERE
+**Dataset DOI/URL:** INSERT DATASET DOI HERE if it has one
+**Dataset descriptor article:** INSERT DATASET descriptor article DOI HERE if it has one, or say None
+**Dataset API:** INSERT DATASET API HERE if it has one, or say None
+**Code to work with data:** INSERT any code or github repo  HERE, or say None
+**Example uses of dataset:** INSERT any example uses of the data (paper, blog, etc)
+
+Please write a short description of the dataset/datasource.
+
+Also please write a short (maybe 1-2 paragraph) rationale for why this dataset is cool. Remember this site is intended to curate data sources — for other coastal scientist to browse, get ideas, discuss facets of the dataset, possible extensions, etc.
+
+Also, feel free to include other info:
+- Have you used it before? 
+- have you encountered any issues? 
+- are you currently working with it and want some collaborators?
 
 
 ```
