@@ -37,8 +37,9 @@ tags: [data, general, marsh, dune, beach, built environment, people, ecosystem, 
 
 {Also, feel free to include other info:
 - Have you used it before? 
-- have you encountered any issues? 
-- are you currently working with it and want some collaborators?}
-
+- Have you encountered any issues? 
+- Are you currently working with it and want some collaborators?
+- Discussion about uncertainty.
+- Data limitations.
 
 ```
