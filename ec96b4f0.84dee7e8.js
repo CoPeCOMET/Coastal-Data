@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{86:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"built-environment","name":"built environment","count":3,"permalink":"/Coastal-Data/blog/tags/built-environment"}')}}]);
