@@ -1,4 +1,4 @@
-# Coastal Data curation project
+# A Prototype Coastal Data Curation Service 
 
 [![Earth ArXiv Preprint
 DOI](https://img.shields.io/badge/%F0%9F%8C%8D%F0%9F%8C%8F%F0%9F%8C%8E%20EarthArXiv-doi.org%2F10.31223%2FX5T619-%23FF7F2A)](https://doi.org/10.31223/X5T619)
@@ -15,3 +15,20 @@ We invite you to contribute in a few ways:
 You can contribute a data blog entry in one of two ways:
 1) Fill out the [template for data blog entries](https://github.com/CoPeCOMET/Coastal-Data/blob/master/DataBlogTemplate.md) and leave the markdwon file (and any other content) in a new issue.
 2) Fork the project, fill out the [template for data blog entries](https://github.com/CoPeCOMET/Coastal-Data/blob/master/DataBlogTemplate.md), leave it in the `blog` directory of the repository, and open a pull request. 
+
+To work with the website, clone this repository and navigate to the directory:
+
+#### Installation:
+```
+$ npm install
+```
+
+#### Local Development:
+```
+$ npm run start
+```
+
+### Build the site:
+```
+$ npm run build
+```
