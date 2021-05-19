@@ -3,7 +3,7 @@
 1. start a new markdown file.
 2. save the file with the name `YYYY-MM-DD-my-blog-post-title.md`
 3. Copy this format below.
-4. replace all the AllCAPS text and the text in the curly brakets with your own. (please keep the markdown formatting)
+4. replace all the ALLCAPS text and the text in the curly brakets with your own. (please keep the markdown formatting)
 5. choose relevant tags and delete the non-relevant ones
 
 ```
