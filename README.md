@@ -28,7 +28,7 @@ $ npm install
 $ npm run start
 ```
 
-### Build the site:
+### Build the site locally:
 ```
 $ npm run build
 ```
