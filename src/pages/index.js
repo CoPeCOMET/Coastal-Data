@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Browse or search the data blog to
+        Browse or search the data blog (see link above) to
         find coastal data of interest. Each entry discusses 
         previous data uses and existing software.
       </>
@@ -23,7 +23,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Use the commenting feature for each data blog post to
+        Use the commenting feature on each data blog post to
         discuss the coastal data sets and their use.
       </>
     ),
