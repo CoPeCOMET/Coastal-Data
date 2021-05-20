@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{66:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"natural-hazards","name":"natural hazards","count":1,"permalink":"/Coastal-Data/blog/tags/natural-hazards"}')}}]);
