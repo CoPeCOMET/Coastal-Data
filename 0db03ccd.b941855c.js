@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{61:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"coastal-retreat","name":"coastal retreat","count":1,"permalink":"/Coastal-Data/blog/tags/coastal-retreat"}')}}]);

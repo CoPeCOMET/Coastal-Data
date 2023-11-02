@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{67:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"rip-current","name":"rip current","count":1,"permalink":"/Coastal-Data/blog/tags/rip-current"}')}}]);

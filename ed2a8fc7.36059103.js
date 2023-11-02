@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[102],{157:function(o){o.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"morphology","name":"morphology","count":1,"permalink":"/Coastal-Data/blog/tags/morphology"}')}}]);

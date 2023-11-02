@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[108],{163:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"particle-size","name":"particle size","count":1,"permalink":"/Coastal-Data/blog/tags/particle-size"}')}}]);

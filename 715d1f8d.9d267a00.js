@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{109:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"counterfactuals","name":"counterfactuals","count":1,"permalink":"/Coastal-Data/blog/tags/counterfactuals"}')}}]);

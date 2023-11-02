@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{92:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"sediment-transport","name":"sediment transport","count":1,"permalink":"/Coastal-Data/blog/tags/sediment-transport"}')}}]);

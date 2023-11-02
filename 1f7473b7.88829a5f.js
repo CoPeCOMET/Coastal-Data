@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{73:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"hydrodynamics","name":"hydrodynamics","count":1,"permalink":"/Coastal-Data/blog/tags/hydrodynamics"}')}}]);

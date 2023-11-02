@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[107],{162:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"marine","name":"marine","count":1,"permalink":"/Coastal-Data/blog/tags/marine"}')}}]);

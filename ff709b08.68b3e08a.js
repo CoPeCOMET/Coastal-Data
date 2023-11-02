@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[110],{165:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"citizen-science","name":"citizen science","count":1,"permalink":"/Coastal-Data/blog/tags/citizen-science"}')}}]);

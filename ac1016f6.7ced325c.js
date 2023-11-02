@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[75],{130:function(a){a.exports=JSON.parse('{"allTagsPath":"/Coastal-Data/blog/tags","slug":"seagrass","name":"seagrass","count":1,"permalink":"/Coastal-Data/blog/tags/seagrass"}')}}]);
